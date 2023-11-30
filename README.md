@@ -4,7 +4,7 @@ Audio related -
 
 Documents related -
 
-- [file-management](file-management/Readme.md)
+- [file-management](file-management)
 
 Video related -
 
