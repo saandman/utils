@@ -8,4 +8,4 @@ Documents related -
 
 Video related -
 
-- [compress-video](compress-video/Readme.md)
+- [compress-video](compress-video)
